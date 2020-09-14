@@ -1,0 +1,19 @@
+.app
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+
+    section
+    {
+        width:80%;
+        height:80%;
+        border:2px dotted teal;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+    }
+}
+
